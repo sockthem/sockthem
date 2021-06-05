@@ -7,6 +7,8 @@
 - 👨‍ Python is favourite programming language and Breaking Bad is my all time fav TV show
 - 💻 roBERTa >> XLNET
 
+![image](https://user-images.githubusercontent.com/31504279/120887504-ee04cb00-c610-11eb-8468-16bf3ff7c1f2.png)
+
 <!---
 sockthem/sockthem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
