@@ -1,9 +1,9 @@
-- 👋 Hi, I’m in a tech enthusiast
+- 👋 Hi, I’m in a tech fanatic
 - 👀 I’m currently exploring applications of Natural Language Processing and Computer Vision 
-- 🌱 I’m improving skills Deep Learning,ML algos and deployment on Cloud Platforms(GCP/AWS)
-- 💞️ I’m looking to collaborate on revolutionary tech applications on AI
-- 📫 I'm a footballer and have lead my school and college in various competitions at state and national levels.
-- 👨‍🏫 I work as a full time data scientist(NLP in Healthcare)
+- 🌱 My learning is more focused on Deep Learning,optimisation using ML algos and deployment on Cloud Platforms(Azure/AWS)
+- 💞️ I’m looking to collaborate on revolutionary AI based tech applications 
+- 📫 I love playing football
+- 👨‍🏫 I am a full time data scientist(NLP domain)
 - 👨‍ Python is favourite programming language and Breaking Bad is my all time fav TV show
 - 💻 roBERTa >> XLNET
 
