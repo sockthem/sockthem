@@ -1,4 +1,4 @@
-- 👋 Hi, I’m in a tech fanatic into Web3 and Gaming on Solana.
+- 👋 Hi, I’m in a tech fanatic.
 - 👀 I’m experienced in building applications of Natural Language Processing and Deep Learning
 - 🌱 My learning is more focused on Deep Learning,optimisation using ML algos and deployment on Cloud Platforms(Azure/AWS)
 - 💞️ I’m looking to collaborate on revolutionary web3 based applications 
