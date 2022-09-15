@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on revolutionary web3 based applications 
 - 📫 I love playing football
 - 👨‍ Drop me a message if you're willing for a weekend catchup in Bangalore
-![image](https://user-images.githubusercontent.com/31504279/186113153-89201960-a2d1-49cd-af56-798b8b948bef.png)
+![cpu-processor-circuit-board-artificial-intelligence-696x392](https://user-images.githubusercontent.com/31504279/190410998-c0d32716-44f9-4187-9405-e4d207a1c740.jpg)
 
 
 <!---
